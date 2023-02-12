@@ -6,11 +6,11 @@ This application allows you to save your current GPS location, store a list of s
 
 - React Native
 - Java Script
-- CSS
 - Expo
 - NodeJS
 - Babel
-
+- JSON
+- CSS
 
 
 ## Installation
@@ -24,7 +24,7 @@ To do this, open the project folder in the terminal and enter the command:
 ```
 To start the project, use the command:
 ```bash
-  npm install my-project
+  expo start
 ```
 
 
